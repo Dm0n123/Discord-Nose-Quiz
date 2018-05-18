@@ -1,0 +1,22 @@
+{
+  "name": "discordnosequiz",
+  "version": "1.0.0",
+  "description": "A discord bot that will test you on your knowledge of noses!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dm0n123/Discord-Nose-Quiz.git"
+  },
+  "author": "Jack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dm0n123/Discord-Nose-Quiz/issues"
+  },
+  "homepage": "https://github.com/Dm0n123/Discord-Nose-Quiz#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
